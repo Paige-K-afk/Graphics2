@@ -9,6 +9,9 @@ W - forward
 A - turn left
 S - backward
 D - turn right
+L Shift - Look Up
+CTRL - Look Down
 E - Hold to show wireframe (please look at the wireframe.
 			    the texture on the terrain is transparent and looks flat
 			    but the wireframe shows all the details)
+
